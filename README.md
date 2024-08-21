@@ -1,2 +1,2 @@
-# merge-conflict
+# third-branch
 testing conflict merging
